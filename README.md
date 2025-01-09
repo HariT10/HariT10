@@ -6,4 +6,7 @@ Hi, my name is Harishan. On my this page you will see all my different projects 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Current Projects:
 
-- 
+- Food App using Android Studio
+- Soccer Analysis Program
+- Portfolio
+- School Assignments

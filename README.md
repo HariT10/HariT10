@@ -61,7 +61,19 @@
 <div align = "center">
 
 
-   <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,eclipse,docker,linux" />
+   <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,eclipse,docker,linux,wordpress, " />
+
+
+   
+</div>
+
+
+<h3 align="center">video editing</h3>
+
+<div align = "center">
+
+
+   <img src="https://skillicons.dev/icons?i=pr, ae" />
 
 
    

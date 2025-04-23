@@ -61,7 +61,7 @@
 <div align = "center">
 
 
-   <img src="https://skillicons.dev/icons?i=vscode, github, gitlab, eclipse, docker, linux	" />
+   <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,eclipse,docker,linux" />
 
 
    

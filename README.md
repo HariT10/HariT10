@@ -5,6 +5,9 @@
 </h1>
 
 
+<h3>about me</h3>
+
+
 <div align="center">
    
    Hi, my name is Harishan. On my this page you will see all my different projects I have worked on, from things like     school projects, personal projects, and freelance projects. I also really like editing videos, which can be found 

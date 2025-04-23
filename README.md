@@ -49,12 +49,9 @@
 <div align = "center">
 
    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java" />
-
+      <img src="https://skillicons.dev/icons?i=java, python, c" />
 
    </a>
-
-
    
 </div>
 

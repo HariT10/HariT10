@@ -49,7 +49,7 @@
 <div align = "center">
 
 
-   <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
+   <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css, " />
 
 
    
@@ -61,7 +61,7 @@
 <div align = "center">
 
 
-   <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,eclipse,docker,linux,wordpress, " />
+   <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,eclipse,docker,linux,wordpress,mysql,sqlite,firebase" />
 
 
    

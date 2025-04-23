@@ -1,3 +1,5 @@
+<img align = "right" src="https://visitor-badge.laobi.icu/badge?page_id=HariT10.HariT10" />
+
 <h1>
    Welcome 👋
 </h1>

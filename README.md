@@ -73,7 +73,7 @@
 <div align = "center">
 
 
-   <img src="https://skillicons.dev/icons?i=pr, ae" />
+   <img src="https://skillicons.dev/icons?i=pr,ae" />
 
 
    

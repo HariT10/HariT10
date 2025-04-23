@@ -5,7 +5,7 @@
 </h1>
 
 
-<h3>about me</h3>
+<h3 align="center">about me</h3>
 
 
 <div align="center">

@@ -85,7 +85,6 @@ I'm currently a second year Software Engineering student at the University of Gu
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Current Projects:
 
-- Food App using Android Studio
 - Soccer Analysis Program
 - Portfolio
-- School Assignments
+

@@ -10,10 +10,9 @@
 
 <div align="center">
 
-I'm currently a second year Software Engineering student at the University of Guelph.
+I'm currently a third year Software Engineering student at the University of Guelph.
    
-   Hi, my name is Harishan. On my this page you will see all my different projects I have worked on, from things like     school projects, personal projects, and freelance projects. This Github account is really so that I stay consistent with building and coding, which I 
-   think is very important. 
+   Hi, my name is Harishan. On my this page you will see all my different projects I have worked on, from things like     school projects, personal projects, and freelance projects. Most of my work will be on here.
 
 </div>
 

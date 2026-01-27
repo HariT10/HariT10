@@ -8,7 +8,7 @@
 <h3 align="center">about me</h3>
 
 
-<div align="center">
+<div align="left">
 
 I'm currently a third year Software Engineering student at the University of Guelph.
    

@@ -82,8 +82,5 @@ I'm currently a third year Software Engineering student at the University of Gue
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Current Projects:
 
-- Soccer Analysis Program
-- Portfolio
 

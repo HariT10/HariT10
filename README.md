@@ -10,9 +10,9 @@
 
 <div align="left">
 
-I'm currently a third year Software Engineering student at the University of Guelph.
+Hi, my name is Harishan. I'm currently a third year Software Engineering student at the University of Guelph.
    
-   Hi, my name is Harishan. On this page you will see all my different projects I have worked on, from things like     school projects, personal projects, and freelance projects. Most of my work will be on here.
+On this page you will see all my different projects I have worked on, from things like     school projects, personal projects, and freelance projects. Most of my work will be on here.
 
 Feel free to contact me with any questions👋
 

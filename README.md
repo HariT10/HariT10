@@ -14,7 +14,6 @@ Hi, my name is Harishan. I'm currently a third year Software Engineering student
    
 On this page you will see all my different projects I have worked on, from things like     school projects, personal projects, and freelance projects. Most of my work will be on here.
 
-I'm currentlty working on a Personal Finance Tracker and a Stadium Mapper.
 
 Feel free to contact me with any questions👋
 

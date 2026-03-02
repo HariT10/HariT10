@@ -17,6 +17,8 @@ On this page you will see all my different projects I have worked on, from thing
 
 Feel free to contact me with any questions👋
 
+https://harishan.netlify.app/
+
 
 </div>
 

@@ -19,6 +19,10 @@ Feel free to contact me with any questions👋
 
 https://harishan.netlify.app/
 
+Work Experience:
+
+Recent Projects:
+
 
 </div>
 
